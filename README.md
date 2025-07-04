@@ -1,40 +1,46 @@
 # ✈️ DumiSTT — Staff Transfer & Tour Booking Platform
 
-A responsive, modular travel booking app built with React and Tailwind CSS.
+A responsive, branded booking platform for staff shuttles, airport transfers, school transport, and cross-border tours — proudly driven from South Africa.
 
-DumiSTT delivers seamless transport and tour solutions across Southern Africa — from airport transfers and school transport to corporate shuttles and cross-border adventures.
-
-🔗 **Live Demo**: [https://Dumisani2009.github.io/dumistt-react](https://Dumisani2009.github.io/dumistt-react)
+🔗 **Live Site**: [https://www.dumistt.co.za](https://www.dumistt.co.za)
 
 ---
 
 ## 🚀 Features
 
-- Modular React architecture
-- Tailwind CSS utility-based UI
-- Interactive booking form with toast notifications
-- Airport & staff transfers, school transport, tours and rentals
-- Fully responsive for desktop, tablet, and mobile
+- Fully modular React architecture
+- Tailwind CSS for clean, responsive UI
+- Real DumiSTT-branded vehicle visuals for trust and impact
+- Booking form with modal interaction and toast feedback
+- GitHub Pages deployment with custom domain
 
 ---
 
 ## 🛠 Tech Stack
 
-| Tech          | Description                          |
-|---------------|--------------------------------------|
-| React         | Frontend framework                   |
-| Tailwind CSS  | Styling and responsive design        |
-| gh-pages      | Deployment to GitHub Pages           |
-| React Toastify | Elegant toast notifications         |
+| Tech           | Description                          |
+|----------------|--------------------------------------|
+| React          | Frontend framework                   |
+| Tailwind CSS   | Styling and responsive layout        |
+| gh-pages       | Deployment to GitHub Pages           |
+| React Toastify | Toast alerts for user feedback       |
 
 ---
 
-## 📦 Deployment
+## 📬 Book a Ride
 
-Deployed using GitHub Pages.
+Visit [https://www.dumistt.co.za](https://www.dumistt.co.za) and click **Book Now** to schedule your trip.
 
-To run locally:
+Or scroll to the **Book Your Journey** section for a detailed booking request form.
+
+---
+
+## 📦 Local Setup
+
+Clone the project and run it locally:
 
 ```bash
+git clone https://github.com/Dumisani2009/dumistt-react
+cd dumistt-react
 npm install
 npm start

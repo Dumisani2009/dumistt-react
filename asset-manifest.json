@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/dumistt-react/static/css/main.9eb05240.css",
-    "main.js": "/dumistt-react/static/js/main.b2474c08.js",
+    "main.css": "/dumistt-react/static/css/main.89283533.css",
+    "main.js": "/dumistt-react/static/js/main.93306542.js",
     "static/js/453.96453769.chunk.js": "/dumistt-react/static/js/453.96453769.chunk.js",
     "index.html": "/dumistt-react/index.html",
-    "main.9eb05240.css.map": "/dumistt-react/static/css/main.9eb05240.css.map",
-    "main.b2474c08.js.map": "/dumistt-react/static/js/main.b2474c08.js.map",
+    "main.89283533.css.map": "/dumistt-react/static/css/main.89283533.css.map",
+    "main.93306542.js.map": "/dumistt-react/static/js/main.93306542.js.map",
     "453.96453769.chunk.js.map": "/dumistt-react/static/js/453.96453769.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9eb05240.css",
-    "static/js/main.b2474c08.js"
+    "static/css/main.89283533.css",
+    "static/js/main.93306542.js"
   ]
 }
