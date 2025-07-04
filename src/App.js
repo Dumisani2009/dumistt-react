@@ -1,25 +1,24 @@
-import logo from './logo.svg';
+import React from 'react';
 import './App.css';
+import { ToastContainer } from 'react-toastify';
+import HomeSection from './components/HomeSection';
+import ServicesSection from './components/ServicesSection';
+import PricingSection from './components/PricingSection';
+import BookingsSection from './components/BookingsSection';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <main className="p-6 space-y-12">
+        <HomeSection />
+        <ServicesSection />
+        <PricingSection />
+        <BookingsSection />
+      </main>
+      <ToastContainer position="top-right" autoClose={4000} />
     </div>
   );
 }
+
 
 export default App;
